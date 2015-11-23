@@ -1,6 +1,6 @@
 # My Government Online Wiki #
 
-This is the code for My Government Online wiki. It contains the WordPress theme and template files that the app uses and that code that makes the contact portion of the app.
+This is the code for My Government Online wiki. It contains the WordPress theme and template files that the app uses and the code that makes up the contact portion of the app.
 
 The four template files that requires the custom PHP code in core/includes:
 
